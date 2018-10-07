@@ -34,9 +34,8 @@ Approach:
 Results:
 Average value of Jaccard Distance: 0.9804398083185061 Minimum value of Jaccard Distance: 0.33333333333333337
 
-![imgae_analysis](https://user-images.githubusercontent.com/43916672/46586930-27956a80-ca53-11e8-89e6-6b4e6ce96d13.png)
-
-  
+![histogram_plot](https://user-images.githubusercontent.com/43916672/46586957-80650300-ca53-11e8-82c8-414288cee932.png)
+ 
 Problem 3:
 
 Statement: Find the nearest neighbor pairs for each queried user
@@ -105,7 +104,7 @@ S = similarity > = 0.65
 The values of r1 and b give better results with probability 0.91513
 This can also be viewed in the graph. The specific values of r1 and b1 give a smaller number of false negative as compared to the other values.
 
-![histogram_plot](https://user-images.githubusercontent.com/43916672/46586957-80650300-ca53-11e8-82c8-414288cee932.png)
+![imgae_analysis](https://user-images.githubusercontent.com/43916672/46586930-27956a80-ca53-11e8-89e6-6b4e6ce96d13.png)
   
 Problem 5:
 
