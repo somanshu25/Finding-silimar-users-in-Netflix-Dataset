@@ -1,4 +1,4 @@
-# Findsing-silimar-users-in-Netflix-Dataset
+# Finding-silimar-users-in-Netflix-Dataset
 
 The motive is to find the similar users who have rated highly almost same movies. The given databse is a Netflix userbase with movies , user_id, the rating of the movie and the date when the user rated.   
 
