@@ -22,8 +22,7 @@ Sparse Matrix dimensions: [4485, 231424]
 
 ## Problem 2:
 
-### Statement: To analyze random pairs of 10,000 users and calculate the average Jaccard distance,
-similarity and plot the histogram of pairwise Jaccard distances
+### Statement: To analyze random pairs of 10,000 users and calculate the average Jaccard distance, similarity and plot the histogram of pairwise Jaccard distances
 ### Approach:
 1. Pad the matrix with zeros to increase the row size to the nearest prime number i:e 4493
 2. Randomly choose 10,000 pairs from the data set following the discreet uniform distribution
