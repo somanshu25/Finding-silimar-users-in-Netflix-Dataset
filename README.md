@@ -111,7 +111,10 @@ Problem 5:
 Statement: Given a new user find the similar user in the dataset Approach:
 1. The new user dataset is assumed to be in the following format of ‘ratings’ of size [4485, 1]
 2. If the movie was rated by the user, 1 is placed at the location of the movie_id or else a 0 is in
-that position
+that position.
+
+                 movie_id1[0 or 1] | movie_id2[0 or 1] | movie_id3[0 or 1] |.... |....|movie_idn 
+
 3. We also assume that the user has rated all is movies as 3 or above and only rated movies less
 than 20
 4. Min hashing and local sensitivity hashing are applied to the new user data and the Band matrix is obtained.
